@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Gemini",
+        "keyword": "@gemini",
+        "url": "https://gemini.google.com/app?q={searchTerms}"
+    },
+    {
+        "name": "Chrome 书签",
+        "keyword": "@书签",
+        "url": "chrome://bookmarks/?q={searchTerms}"
+    },
+    {
+        "name": "Chrome 历史记录",
+        "keyword": "@历史记录",
+        "url": "chrome://history/?q={searchTerms}"
+    },
+    {
+        "name": "Chrome 标签页",
+        "keyword": "@标签页",
+        "url": "chrome://tabs/?q={searchTerms}"
+    },
+    {
+        "name": "安东",
+        "keyword": "ad",
+        "url": "http://e.bookpdf.cc/"
+    },
+    {
+        "name": "Amazon",
+        "keyword": "am",
+        "url": "https://www.amazon.com/s?k={searchTerms}"
+    },
+    {
+        "name": "安娜的档案",
+        "keyword": "an",
+        "url": "https://zh.annas-archive.org/search?q={searchTerms}"
+    },
+    {
+        "name": "Apple",
+        "keyword": "ap",
+        "url": "https://www.apple.com.cn/"
+    },
+    {
+        "name": "AI Studio",
+        "keyword": "as",
+        "url": "https://aistudio.google.com/prompts/new_chat"
+    },
+    {
+        "name": "百度",
+        "keyword": "bd",
+        "url": "https://www.baidu.com/#ie={inputEncoding}&wd={searchTerms}"
+    },
+    {
+        "name": "玻尔",
+        "keyword": "be",
+        "url": "https://www.bohrium.com/home"
+    },
+    {
+        "name": "哔哩哔哩",
+        "keyword": "bl",
+        "url": "https://search.bilibili.com/all?keyword={searchTerms}"
+    },
+    {
+        "name": "Microsoft Bing",
+        "keyword": "by",
+        "url": "https://www.bing.com/search?q={searchTerms}"
+    },
+    {
+        "name": "ChatGPT",
+        "keyword": "cg",
+        "url": "https://chatgpt.com/"
+    },
+    {
+        "name": "扩展程序",
+        "keyword": "cj",
+        "url": "https://chromewebstore.google.com/category/extensions?utm_source=ext_sidebar&hl=zh-CN"
+    },
+    {
+        "name": "Claude",
+        "keyword": "cl",
+        "url": "https://claude.ai/new"
+    },
+    {
+        "name": "Connected Papers",
+        "keyword": "cp",
+        "url": "https://www.connectedpapers.com/"
+    },
+    {
+        "name": "豆瓣读书",
+        "keyword": "db",
+        "url": "https://book.douban.com/subject_search?search_text={searchTerms}"
+    },
+    {
+        "name": "Deadline",
+        "keyword": "ddl",
+        "url": "https://ccfddl.top/"
+    },
+    {
+        "name": "DuckDuckGo",
+        "keyword": "dg",
+        "url": "https://duckduckgo.com/?q={searchTerms}"
+    },
+    {
+        "name": "豆包",
+        "keyword": "dou",
+        "url": "https://www.doubao.com/chat/?channel=baidu_pz&source=db_baidu_pz_01&keywordid=weizhi1"
+    },
+    {
+        "name": "DeepSeek",
+        "keyword": "ds",
+        "url": "https://chat.deepseek.com/"
+    },
+    {
+        "name": "动态首页-哔哩哔哩",
+        "keyword": "dt",
+        "url": "https://t.bilibili.com/?spm_id_from=333.337.0.0"
+    },
+    {
+        "name": "扩展程序",
+        "keyword": "ex",
+        "url": "https://chromewebstore.google.com/category/extensions?utm_source=ext_sidebar&hl=zh-CN&pli=1"
+    },
+    {
+        "name": "服务器",
+        "keyword": "fwq",
+        "url": "https://j9b63pnxvz.feishu.cn/wiki/DRJHwi8sxioWvIkyIVicKa9OnFc?fromScene=spaceOverview"
+    },
+    {
+        "name": "Google",
+        "keyword": "g",
+        "url": "{google:baseURL}search?q={searchTerms}&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:language}{google:prefetchSource}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}ie={inputEncoding}"
+    },
+    {
+        "name": "Gemini",
+        "keyword": "ge",
+        "url": "https://gemini.google.com/app"
+    },
+    {
+        "name": "GitHub",
+        "keyword": "gh",
+        "url": "https://github.com/search?q={searchTerms}&ref=opensearch"
+    },
+    {
+        "name": "Github",
+        "keyword": "git",
+        "url": "https://github.com/"
+    },
+    {
+        "name": "高等教育出版社",
+        "keyword": "gj",
+        "url": "https://xuanshu.hep.com.cn/front/book/bookSearch?wd={searchTerms}"
+    },
+    {
+        "name": "GitLab",
+        "keyword": "gl",
+        "url": "https://gitlab.com/dashboard/projects/member"
+    },
+    {
+        "name": "Gmail",
+        "keyword": "gm",
+        "url": "https://mail.google.com/mail/?usp=installed_webapp"
+    },
+    {
+        "name": "Grok",
+        "keyword": "gr",
+        "url": "https://grok.com/"
+    },
+    {
+        "name": "谷歌学术",
+        "keyword": "gs",
+        "url": "https://scholar.google.com/scholar?q={searchTerms}"
+    },
+    {
+        "name": "Grok/X",
+        "keyword": "gx",
+        "url": "https://x.com/i/grok"
+    },
+    {
+        "name": "京东",
+        "keyword": "jd",
+        "url": "https://search.jd.com/Search?keyword={searchTerms}"
+    },
+    {
+        "name": "JoyRL",
+        "keyword": "jr",
+        "url": "https://datawhalechina.github.io/joyrl-book/#/"
+    },
+    {
+        "name": "jsongrid",
+        "keyword": "js",
+        "url": "https://jsongrid.com/json-grid"
+    },
+    {
+        "name": "金山文档",
+        "keyword": "kd",
+        "url": "https://www.kdocs.cn/latest"
+    },
+    {
+        "name": "孔夫子旧书网",
+        "keyword": "kfz",
+        "url": "https://search.kongfz.com/booklib/?keyword={searchTerms}"
+    },
+    {
+        "name": "Kimi",
+        "keyword": "km",
+        "url": "https://kimi.moonshot.cn/"
+    },
+    {
+        "name": "科学文库",
+        "keyword": "kx",
+        "url": "https://book.sciencereading.cn/shop/main/Login/shopFrame.do"
+    },
+    {
+        "name": "李升波",
+        "keyword": "lsb",
+        "url": "http://www.idlab-tsinghua.com/thulab/labweb/publications.html"
+    },
+    {
+        "name": "智慧教学媒体资源管理平台",
+        "keyword": "lt",
+        "url": "https://look.tongji.edu.cn/"
+    },
+    {
+        "name": "数码荔枝",
+        "keyword": "lz",
+        "url": "https://lizhi.shop/"
+    },
+    {
+        "name": "幕布",
+        "keyword": "mb",
+        "url": "https://mubu.com/app"
+    },
+    {
+        "name": "NotebookLM",
+        "keyword": "nb",
+        "url": "https://notebooklm.google.com/"
+    },
+    {
+        "name": "Notion",
+        "keyword": "nt",
+        "url": "https://www.notion.so/To-do-List-21070de6fb408088b84fff0d59ddfff1"
+    },
+    {
+        "name": "Overleaf",
+        "keyword": "ol",
+        "url": "https://www.overleaf.com/"
+    },
+    {
+        "name": "OmniSafe",
+        "keyword": "os",
+        "url": "https://omnisafe.readthedocs.io/en/latest/index.html"
+    },
+    {
+        "name": "PaperCopilot",
+        "keyword": "pc",
+        "url": "https://papercopilot.com/"
+    },
+    {
+        "name": "photopea",
+        "keyword": "ps",
+        "url": "https://www.photopea.com/"
+    },
+    {
+        "name": "密码",
+        "keyword": "pwd",
+        "url": "chrome://password-manager/passwords"
+    },
+    {
+        "name": "Quicker动作库",
+        "keyword": "qc",
+        "url": "https://getquicker.net/share"
+    },
+    {
+        "name": "千问",
+        "keyword": "qw",
+        "url": "https://chat.qwen.ai/"
+    },
+    {
+        "name": "reddit",
+        "keyword": "rd",
+        "url": "https://www.reddit.com/search?q={searchTerms}"
+    },
+    {
+        "name": "日历",
+        "keyword": "rl",
+        "url": "https://j9b63pnxvz.feishu.cn/calendar/month"
+    },
+    {
+        "name": "小红书",
+        "keyword": "rn",
+        "url": "https://www.xiaohongshu.com/search_result?keyword={searchTerms}"
+    },
+    {
+        "name": "搜索引擎",
+        "keyword": "se",
+        "url": "chrome://settings/searchEngines"
+    },
+    {
+        "name": "slideslive",
+        "keyword": "sl",
+        "url": "https://slideslive.com/search?type=&query={searchTerms}"
+    },
+    {
+        "name": "Springer",
+        "keyword": "sp",
+        "url": "https://link.springer.com/search?query={searchTerms}"
+    },
+    {
+        "name": "数学高教社",
+        "keyword": "sx",
+        "url": "https://xuanshu.hep.com.cn/front/book/findBookProducts?professionPath=/599a40bf1fc164e5a8bc6958/599a40bf1fc164e5a8bc6974"
+    },
+    {
+        "name": "淘宝",
+        "keyword": "tb",
+        "url": "https://s.taobao.com/search?q={searchTerms}"
+    },
+    {
+        "name": "通义",
+        "keyword": "ty",
+        "url": "https://www.tongyi.com/qianwen"
+    },
+    {
+        "name": "USTC评课社区",
+        "keyword": "us",
+        "url": "https://icourse.club/"
+    },
+    {
+        "name": "WolframAlpha",
+        "keyword": "wa",
+        "url": "https://www.wolframalpha.com/"
+    },
+    {
+        "name": "维基百科",
+        "keyword": "wk",
+        "url": "https://zh.wikipedia.org/w/index.php?search={searchTerms}"
+    },
+    {
+        "name": "文泉书局",
+        "keyword": "wq",
+        "url": "https://wqbook.wqxuetang.com/search?kw={searchTerms}"
+    },
+    {
+        "name": "文心一言",
+        "keyword": "wx",
+        "url": "https://yiyan.baidu.com/"
+    },
+    {
+        "name": "X",
+        "keyword": "x",
+        "url": "https://twitter.com/search?q={searchTerms}&src=typed_query"
+    },
+    {
+        "name": "讯飞星火",
+        "keyword": "xf",
+        "url": "https://xinghuo.xfyun.cn/desk"
+    },
+    {
+        "name": "元宝",
+        "keyword": "yb",
+        "url": "https://yuanbao.tencent.com/chat/naQivTmsDa?yb_channel=3003"
+    },
+    {
+        "name": "有道翻译",
+        "keyword": "yd",
+        "url": "https://fanyi.youdao.com/#/AITranslate"
+    },
+    {
+        "name": "YouTube",
+        "keyword": "yt",
+        "url": "https://www.youtube.com/results?search_query={searchTerms}"
+    },
+    {
+        "name": "芸台购",
+        "keyword": "ytg",
+        "url": "https://yuntaigo.com/bookSearch.action?text={searchTerms}"
+    },
+    {
+        "name": "同济邮箱",
+        "keyword": "yx",
+        "url": "https://mail.tongji.edu.cn/coremail/XT5/index.jsp?sid=DADVKaAAEtStloSBtRuVrzIIiQmqcCRH#mail.welcome"
+    },
+    {
+        "name": "周报",
+        "keyword": "zb",
+        "url": "https://j9b63pnxvz.feishu.cn/wiki/L1yPwzQ4wiEOq4kjYKxcAGAWnmc"
+    },
+    {
+        "name": "知乎",
+        "keyword": "zh",
+        "url": "https://www.zhihu.com/search?type=content&q={searchTerms}"
+    },
+    {
+        "name": "Z-lib",
+        "keyword": "zl",
+        "url": "https://z-library.sk/s/{searchTerms}"
+    },
+    {
+        "name": "智谱清言",
+        "keyword": "zp",
+        "url": "https://chatglm.cn/main/detail"
+    }
+]
